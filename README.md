@@ -11,8 +11,11 @@ You have to run both commands below. All files must be placed in the same folder
 The English Wikipedia sub-set has been reduced to make the upload easier.
 
 ### Authors ###
-WikiSearchEngine was developed as a group project for the Information Retrieval course, Uppsala University.
+WikiSearchEngine was developed as a group project for the Information Retrieval course, Master in Language Technology, Uppsala University.
 
 Authors: Giuseppe Della Corte, Ugo Loobuyck
+
 Course: Information Retrieval
+
 Master of Language Technology, Uppsala University
+
